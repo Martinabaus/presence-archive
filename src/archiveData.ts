@@ -278,7 +278,7 @@ export const archiveData = [
     medium: 'object',
     presenceType: 'it-is-here',
     description: 'An immersive installation exploring mixed physical and virtual realities, questioning how perception and digital mediation construct shared environments and collective presence.',
-    imageUrl: 'http://www.automato.farm/img/OR_together_grey_bg_1024.jpg',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmEBCVgep7uUkqsbXjAGDBH4ph3wf_GaBoC8sD81e2Q&s=10',
   },
   {
   id: '29',
@@ -329,7 +329,7 @@ export const archiveData = [
   year: 1994,
   medium: 'article',
   presenceType: 'it-is-here,you-are-there,we-are-together',
-  description: 'Foundational theoretical article defining presence as the perceptual illusion of non-mediation — the feeling that a mediated experience is experienced as if it were not mediated. The article synthesizes multiple conceptualizations of presence including social richness, realism, transportation (being there, something being here, or being together), immersion, social actor perception, and medium-as-social-actor. It established presence as a core framework across communication, virtual environments, and interactive media research.',
+  description: 'Fields and Thresholds" is a critical design research project. The project explores alternative approaches to telecommunications in everyday life. Its primary goal is to expand the scope of technological communication beyond mere functionality and data exchange, introducing poetic, aesthetic, and non-verbal forms of expression.',
   imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tkU6UycJ25tesplouFkx3x5rXxdmf5d8Z1oATj3YTg&s',
   link: 'https://dunneandraby.co.uk/docs/content/fields_and_thresholds_1.pdf'
 },
