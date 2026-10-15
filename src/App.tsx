@@ -218,7 +218,9 @@ const App = () => {
                   {item.title}
                 </h3>
                 <p className="text-xs text-gray-400 line-clamp-1">{item.creator}</p>
-                <p className="text-xs text-gray-500">{item.year}</p>
+                <p className="text-xs text-gray-500">
+                  {item.endYear ? `${item.year}–${item.endYear}` : item.year}
+                </p>
               </div>
             </div>
           ))}
@@ -278,7 +280,10 @@ const App = () => {
                     </div>
                     <div className="flex items-center gap-2">
                       <Calendar className="w-4 h-4" />
-                      <span>{selectedItem.year}</span>
+                     <span> {selectedItem.endYear 
+                     ? `${selectedItem.year}–${selectedItem.endYear}`
+                     : selectedItem.year}
+                     </span>
                     </div>
                   </div>
                 </div>

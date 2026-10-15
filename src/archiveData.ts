@@ -298,7 +298,7 @@ export const archiveData = [
     medium: 'article',
     presenceType: 'it-is-here',
     description: 'A theoretical essay defining "effects of presence" as the paradoxical sensation that something or someone is present, even when mediated, absent, or simulated. The text explores presence across phenomenology, media art, telepresence, theatre, and immersive technologies, emphasizing illusion, interaction, and the coexistence of real and virtual spaces.',
-    imageUrl: 'https://via.placeholder.com/400x600/1a1a2e/ffffff?text=Article',
+    imageUrl: 'https://books.openedition.org/pur/file/80849/cover/pur-7520-img01.jpg/download/200',
   },
   {
   id: '31',
@@ -308,7 +308,29 @@ export const archiveData = [
   medium: 'article',
   presenceType: 'it-is-here,you-are-there,we-are-together',
   description: 'Foundational theoretical article defining presence as the perceptual illusion of non-mediation — the feeling that a mediated experience is experienced as if it were not mediated. The article synthesizes multiple conceptualizations of presence including social richness, realism, transportation (being there, something being here, or being together), immersion, social actor perception, and medium-as-social-actor. It established presence as a core framework across communication, virtual environments, and interactive media research.',
-  imageUrl: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jcmc/Issue/3/2/1/m_cover.gif?Expires=1774007979&Signature=P~-t7AKUB3885l4cwjFkKxGLahG4x10X53L-lbcmUWrRcIuZ4C53QeDk8pbuN0Ke42f4ldqPxv4woyNnEs972s2PtqE8HRXHmJ9DA1gxJ80p9oPbcC0D3Dqa7ddm6v1Kq-L-NKkxvmyX3DJYYwlluO5ntdPw6T13uPkC8IhHdBchoSf-ZrhSRmFn3aJ1AeuEQu1K-4THiS-vcv8SuEN2tC48cnqXuXpGz~87F85k6RSWBhSoWNZ66L1ozdbVSkQASNKIZVGXE0FhmiBLTFdiTsZBHMq54f~4xjOLJojM-JhExdqSfAHaLK2PAhdUeS22VSvufdjM1ZAyj9u3CEbjcA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA',
+  imageUrl: 'https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jcmc/Issue/3/2/1/m_cover.gif?Expires=1795106486&Signature=30P7YPxH6YWIYV8HHhccWjCj3xiNTfDkHCq0lyBt5fa~eLODdeZKSB1apbO6rRZxtApLDg-iUy~oiw1ZnC~WB8DrgV-y7Sd~LIDjGSWmyCd6StpIgTPDTO85iXqydjKQi30pdkPYOEwqUDLM7LdfDGa34FNrL9Lh9JLP6pWbW6ImjlT2~TpnOe5uI2T6smlkbh-D7RBuwQhcYFLxQAQhdQpBN5NE12YFTWiOxcPUjdDx9xzk~8z1c83amQ3IoskAwVgN6aizkSf2dyq-iHqX~t-ExfihZ5tbonhIbNlU2cBwzk8EsPeesOUJntiXtwjTkkM8C6h7WhSv~qhc4tiIEw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA',
   link: 'https://academic.oup.com/jcmc/article/3/2/JCMC321/4080403'
-}
+},
+{
+    id: '32',
+    title: 'No Ghost Just a Shell',
+    creator: 'Pierre Huyghe & Philippe Parreno',
+    year: 1999, 
+    endYear:2002,
+    type: 'installation',
+    presenceType: 'it-is-here',
+    description: 'Art project purchasing rights to manga character AnnLee and exploring her presence through multiple artistic interpretations. Questions nature of fictional presence, ownership, and the life of characters across media.',
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_gzDIcec_Rt3MPiKIKEZKyrTM1at9mW9B8i0_o3YX8Csl7vYsDypeM3zpmmRIMzfc8v0I3STjN3Ka3hee-IuKnTg0VblUWhwG2_qGSQfubdEVYcyRNj6Y1O3Dqysw_mivy7c7QZ88ncM/s640/open+File+-+pierre+huyghe.jpg',
+  },
+  {
+  id: '33',
+  title: 'Fields and Thresholds',
+  creator: 'Anthony Dunne and Fiona Raby',
+  year: 1994,
+  medium: 'article',
+  presenceType: 'it-is-here,you-are-there,we-are-together',
+  description: 'Foundational theoretical article defining presence as the perceptual illusion of non-mediation — the feeling that a mediated experience is experienced as if it were not mediated. The article synthesizes multiple conceptualizations of presence including social richness, realism, transportation (being there, something being here, or being together), immersion, social actor perception, and medium-as-social-actor. It established presence as a core framework across communication, virtual environments, and interactive media research.',
+  imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tkU6UycJ25tesplouFkx3x5rXxdmf5d8Z1oATj3YTg&s',
+  link: 'https://dunneandraby.co.uk/docs/content/fields_and_thresholds_1.pdf'
+},
 ];
