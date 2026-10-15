@@ -117,7 +117,7 @@ export const archiveData = [
     medium: 'installation',
     presenceType: 'you-are-there',
     description: 'An early internet-based tele-robotic installation allowing remote users to plant, water, and care for a real garden through a robotic arm, creating shared remote presence through networked physical action.',
-    imageUrl: 'https://nt2.uqam.ca/_next/image?url=https%3A%2F%2Fwp.nt2.uqam.ca%2Fwp-content%2Fuploads%2F2017%2F03%2Fnt2-17-ce01-2560-the_telegarden.png&w=1080&q=75',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAAVtg1chBEea6DDosWp9HIAG9GG8C0zCyl7oZhk02dg&s=10',
   },
   {
     id: '13',
